@@ -1,0 +1,6 @@
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\bin\Debug\BitonicSort_secvential.exe.config
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\bin\Debug\BitonicSort_secvential.exe
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\bin\Debug\BitonicSort_secvential.pdb
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\obj\Debug\BitonicSort_secvential.exe
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\obj\Debug\BitonicSort_secvential.pdb
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secvential\obj\Debug\BitonicSort_secvential.csprojAssemblyReference.cache

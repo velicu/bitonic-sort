@@ -1,0 +1,16 @@
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\BitonicSort_secventialTests.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\BitonicSort_secventialTests.pdb
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\BitonicSort_secvential.exe
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\BitonicSort_secvential.pdb
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\BitonicSort_secvential.exe.config
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\obj\Debug\BitonicSort_secventialTests.csprojAssemblyReference.cache
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\obj\Debug\BitonicSort_secventialTests.csproj.CopyComplete
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\obj\Debug\BitonicSort_secventialTests.dll
+C:\Users\Teo Dora\BitonicSort_secvential\BitonicSort_secventialTests\obj\Debug\BitonicSort_secventialTests.pdb

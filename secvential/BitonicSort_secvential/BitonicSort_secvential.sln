@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitonicSort_secvential", "BitonicSort_secvential\BitonicSort_secvential.csproj", "{9C82BA17-D6FC-46D3-ABA1-6E27B642B34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitonicSort_secventialTests", "BitonicSort_secventialTests\BitonicSort_secventialTests.csproj", "{BBCFCDF8-54E1-4C3D-A741-B7AD9A8E59A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C82BA17-D6FC-46D3-ABA1-6E27B642B34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C82BA17-D6FC-46D3-ABA1-6E27B642B34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C82BA17-D6FC-46D3-ABA1-6E27B642B34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C82BA17-D6FC-46D3-ABA1-6E27B642B34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCFCDF8-54E1-4C3D-A741-B7AD9A8E59A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCFCDF8-54E1-4C3D-A741-B7AD9A8E59A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCFCDF8-54E1-4C3D-A741-B7AD9A8E59A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCFCDF8-54E1-4C3D-A741-B7AD9A8E59A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B1E450-2DF1-4F29-963C-F501F50104B5}
+	EndGlobalSection
+EndGlobal
